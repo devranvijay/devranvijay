@@ -1,188 +1,121 @@
-# 👤 Personal Information
+# ![MasterHead](https://media.giphy.com/media/M9gbBFeM7ypsnuQ6U8/giphy.gif)
 
-**Name:** Ranvijay Singh
+# Hi 👋, I'm Ranvijay Singh
 
-**Phone:** +91 8928375489
+### **A Data Analyst & Automation Specialist from India**
 
-**Email:** ranvijay3325778@gmail.com
-
-**LinkedIn:** https://linkedin.com/in/ranvijay46
+Passionate about building end-to-end data solutions, ETL pipelines, and powerful automation systems. I love transforming raw data into actionable insights and creating intelligent workflows.
 
 ---
 
-## 🧾 Professional Summary
+## 🎯 Quick Facts About Me
 
-Data Analyst with 2+ years of hands-on experience in building end-to-end data solutions, ETL pipeline development, and business intelligence & automation. Strong expertise in Python, SQL, and cloud technologies.
-
-**Key Achievements:**
-- Reduced operational inefficiencies by 40%
-- Accelerated reporting cycles by 67%
-- Skilled in workflow automation, scalable systems, and interactive dashboards
+- 📊 **Data Analyst with 2+ years** of hands-on experience
+- 🔄 **ETL & Data Pipeline Expert** - built scalable solutions for 50+ users
+- 🤖 **Automation Enthusiast** - automated 15+ business workflows
+- 📈 **BI Professional** - created 5+ real-time dashboards using Looker Studio
+- 🚀 Currently exploring **Advanced ML & Predictive Analytics**
+- 💼 Previously at **Brownwall Food Pvt Ltd** (Data Analyst & Automation Specialist)
 
 ---
 
-## 🛠️ Technical Skills
+## 📞 How to Reach Me
 
-### Programming Languages
-- Python
-- SQL
-- JavaScript
-- Google Apps Script
+- 📧 **Email:** [ranvijay3325778@gmail.com](mailto:ranvijay3325778@gmail.com)
+- 📱 **Phone:** +91 8928375489
+- 💼 **LinkedIn:** [ranvijay46](https://linkedin.com/in/ranvijay46)
 
-### Data Engineering & ETL
-- Data Pipeline Development
-- ETL Workflows
-- Data Ingestion & Validation
-- Data Cleaning & Transformation
+---
 
-### Business Intelligence & Visualization
-- Looker Studio
-- Tableau
-- Power BI
-- Google Data Studio
-- Dashboard Development
+## 🛠️ Languages and Tools
 
-### Databases & Caching
-- MySQL
-- MongoDB
-- Redis (performance optimization & caching)
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+<a href="https://www.json.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/></a>
+<a href="https://www.excel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/></a>
+</p>
 
-### Cloud Technologies
-- AWS (EC2, S3)
-- Cloud-based architecture
-- Distributed systems
+---
 
-### Data Analysis
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Regression Analysis
-- A/B Testing
-- Predictive Analytics
-- Trend Analysis
-- Data Modeling & KPI Development
+## 📊 Technical Skills
 
-### Tools & Platforms
-- Google Sheets
-- Microsoft Excel
-- Git
-- REST APIs
-- JSON
+**Programming Languages:** Python, SQL, JavaScript, Google Apps Script
 
-### Core Competencies
-- Workflow Automation
-- Process Optimization
-- System Integration
-- Data Warehousing
+**Data Engineering:** ETL Pipelines, Data Ingestion, Data Validation, Data Transformation, Data Modeling
+
+**Business Intelligence:** Looker Studio, Tableau, Power BI, Google Data Studio, Dashboard Development
+
+**Databases:** MySQL, MongoDB, PostgreSQL, Redis (Caching & Performance Optimization)
+
+**Cloud Platforms:** AWS (EC2, S3), Google Cloud Platform
+
+**Data Analysis:** Exploratory Data Analysis, Statistical Analysis, A/B Testing, Predictive Analytics
+
+**Core Skills:** Workflow Automation, Process Optimization, System Integration, Data Warehousing
+
+---
+
+## 🏆 Key Achievements
+
+- ✅ **40% reduction** in manual data entry through automation
+- ✅ **99% data accuracy** maintained across CRM & FMS systems (50+ users)
+- ✅ **67% faster** reporting cycles (3 days → 1 day)
+- ✅ **30% improvement** in system response time (AWS + Redis optimization)
+- ✅ Designed **custom CRM system** managing 500+ customer records
+- ✅ Built **5+ real-time dashboards** in Looker Studio
+- ✅ Automated **15+ business workflows** across sales, operations & finance
 
 ---
 
 ## 💼 Professional Experience
 
-### Brownwall Food Pvt Ltd
-**Role:** Data Analyst & Automation Specialist  
-**Location:** Mumbai, India  
-**Duration:** Dec 2024 – Jan 2026
+### Data Analyst & Automation Specialist
+**Brownwall Food Pvt Ltd** | Mumbai, India | Dec 2024 – Jan 2026
 
-**Key Responsibilities & Achievements:**
-
-- Built and maintained end-to-end ETL pipelines using Python & SQL
-- Ensured 99% data accuracy across CRM & FMS systems (50+ users)
-- Designed a custom CRM system using Google Apps Script, SQL & JavaScript
-  - Managed 500+ customer records
-  - Reduced manual data entry by 40%
-- Developed an Integrated Finance Management System (FMS) with 3 automation modules:
-  - Approval Workflow Engine
-  - Expense Tracking & Reporting
-  - Transaction Reconciliation Module
-- Created 5+ real-time dashboards in Looker Studio:
-  - CRM analytics
-  - Inventory management
-  - Sales performance
-  - Financial KPIs
-  - Reduced reporting turnaround time from 3 days to 1 day (67%)
-- Implemented AWS (EC2, S3) and Redis caching
-  - Improved system response time by 30%
-- Conducted advanced data analysis:
-  - Region-wise sales performance
-  - Product trend analysis
-  - Customer segmentation
-- Automated 15+ business workflows
-  - Improved efficiency across sales, operations & finance teams
-
----
-
-## 🚀 Key Projects
-
-### 1. Integrated CRM & Finance Management System
-
-**Technologies:** Python, Google Apps Script, SQL, JavaScript, Google Sheets, Looker Studio
-
-**Description:**
-End-to-end CRM system featuring:
-- Customer lifecycle management
-- Sales pipeline tracking
-- Follow-up automation
-- REST API-based integration with FMS
-
-**FMS Modules:**
-- Multi-level approval workflow
-- Expense tracking with analytics
-- Automated transaction reconciliation
-
-**Achievements:**
-- 40% reduction in manual data entry
-- 100% accuracy in financial tracking
-- Real-time operational visibility
-
-### 2. Business Intelligence & Analytics Dashboard Suite
-
-**Technologies:** Looker Studio, SQL, Python, Google Sheets
-
-**Description:**
-Real-time executive dashboards for:
-- Sales metrics
-- Inventory levels
-- Financial KPIs
-- Operational performance
-
-**Data Integration from:**
-- CRM
-- FMS
-- Inventory systems
-
-**Analysis Performed:**
-- EDA using Pandas & NumPy
-- Statistical & trend analysis
-- Insights on region-wise sales, product profitability, customer segmentation, and inventory optimization
-
-**Achievements:**
-- Reduced manual reporting effort from 3 days to 1 day
+- Built end-to-end ETL pipelines using Python & SQL for enterprise data processing
+- Designed custom CRM system using Google Apps Script, SQL & JavaScript
+- Developed Integrated Finance Management System (FMS) with 3 automation modules
+- Created 5+ real-time dashboards and data visualizations in Looker Studio
+- Implemented AWS & Redis infrastructure for 30% performance improvement
+- Automated 15+ business workflows improving team efficiency
 
 ---
 
 ## 🎓 Education
 
-### Bachelor of Science – Computer Science
-**Institute:** R J College of Arts, Science & Commerce  
-**Duration:** 2021 – 2024  
-**CGPA:** 8.64 / 10
-
-### Higher Secondary Certificate (HSC)
-**Institute:** R J College of Arts, Science & Commerce  
-**Duration:** 2019 – 2021  
-**Percentage:** 83.40%
-
-### Secondary School Certificate (SSC)
-**Institute:** Shivam Vidya Mandir, Mumbai  
-**Duration:** 2018 – 2019  
-**Percentage:** 87.80%
+- **Bachelor of Science - Computer Science** | R J College of Arts, Science & Commerce (2021-2024) | CGPA: 8.64/10
+- **HSC** | R J College of Arts, Science & Commerce (2019-2021) | Percentage: 83.40%
+- **SSC** | Shivam Vidya Mandir, Mumbai (2018-2019) | Percentage: 87.80%
 
 ---
 
-## 📞 Get in Touch
+## 📈 GitHub Stats
 
-Feel free to reach out for collaboration, opportunities, or just to connect!
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devranvijay&show_icons=true&locale=en&layout=compact" alt="devranvijay" /></p>
 
-**Email:** ranvijay3325778@gmail.com  
-**Phone:** +91 8928375489  
-**LinkedIn:** https://linkedin.com/in/ranvijay46
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devranvijay&show_icons=true&locale=en" alt="devranvijay" /></p>
+
+---
+
+## 🤝 Connect With Me
+
+<a href="https://linkedin.com/in/ranvijay46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranvijay46" height="30" width="40" /></a>
+<a href="mailto:ranvijay3325778@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
+
+---
+
+<p align="center">
+  <i>Let's connect and create amazing data solutions together! Feel free to reach out for collaboration or interesting projects.</i>
+</p>
