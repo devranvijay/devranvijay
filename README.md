@@ -67,48 +67,6 @@ Passionate about building end-to-end data solutions, ETL pipelines, and powerful
 
 ---
 
-## 🏆 Key Achievements
-
-- ✅ **40% reduction** in manual data entry through automation
-- ✅ **99% data accuracy** maintained across CRM & FMS systems (50+ users)
-- ✅ **67% faster** reporting cycles (3 days → 1 day)
-- ✅ **30% improvement** in system response time (AWS + Redis optimization)
-- ✅ Designed **custom CRM system** managing 500+ customer records
-- ✅ Built **5+ real-time dashboards** in Looker Studio
-- ✅ Automated **15+ business workflows** across sales, operations & finance
-
----
-
-## 💼 Professional Experience
-
-### Data Analyst & Automation Specialist
-**Brownwall Food Pvt Ltd** | Mumbai, India | Dec 2024 – Jan 2026
-
-- Built end-to-end ETL pipelines using Python & SQL for enterprise data processing
-- Designed custom CRM system using Google Apps Script, SQL & JavaScript
-- Developed Integrated Finance Management System (FMS) with 3 automation modules
-- Created 5+ real-time dashboards and data visualizations in Looker Studio
-- Implemented AWS & Redis infrastructure for 30% performance improvement
-- Automated 15+ business workflows improving team efficiency
-
----
-
-## 🎓 Education
-
-- **Bachelor of Science - Computer Science** | R J College of Arts, Science & Commerce (2021-2024) | CGPA: 8.64/10
-- **HSC** | R J College of Arts, Science & Commerce (2019-2021) | Percentage: 83.40%
-- **SSC** | Shivam Vidya Mandir, Mumbai (2018-2019) | Percentage: 87.80%
-
----
-
-## 📈 GitHub Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devranvijay&show_icons=true&locale=en&layout=compact" alt="devranvijay" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devranvijay&show_icons=true&locale=en" alt="devranvijay" /></p>
-
----
-
 ## 🤝 Connect With Me
 
 <a href="https://linkedin.com/in/ranvijay46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranvijay46" height="30" width="40" /></a>
