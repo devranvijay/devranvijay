@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ranvijay Singh
 
-### **A Data Analyst & Automation Specialist from India**
+### **A Data Analyst & Automation Specialist**
 
 Passionate about building end-to-end data solutions, ETL pipelines, and powerful automation systems. I love transforming raw data into actionable insights and creating intelligent workflows.
 
@@ -10,12 +10,12 @@ Passionate about building end-to-end data solutions, ETL pipelines, and powerful
 
 ## 🎯 Quick Facts About Me
 
-- 📊 **Data Analyst with 2+ years** of hands-on experience
-- 🔄 **ETL & Data Pipeline Expert** - built scalable solutions for 50+ users
-- 🤖 **Automation Enthusiast** - automated 15+ business workflows
-- 📈 **BI Professional** - created 5+ real-time dashboards using Looker Studio
-- 🚀 Currently exploring **Advanced ML & Predictive Analytics**
-- 💼 Previously at **Brownwall Food Pvt Ltd** (Data Analyst & Automation Specialist)
+- **Data Analyst with 2+ years** of hands-on experience
+- **ETL & Data Pipeline Expert** - built scalable solutions for 50+ users
+- **Automation Enthusiast** - automated 15+ business workflows
+- **BI Professional** - created 5+ real-time dashboards using Looker Studio
+- Currently exploring **Advanced ML & Predictive Analytics**
+- Previously at **Brownwall Food Pvt Ltd** (Data Analyst & Automation Specialist)
 
 ---
 
