@@ -20,7 +20,7 @@
 {
   "name"                : "Ranvijay Singh",
   "role"                : "Data Analyst & Automation Specialist",
-  "company"             : "Brownwall Food Pvt Ltd",
+  "company"             : "Haitech Medical Solution PVT LTD",
   "location"            : "Mumbai, India 🇮🇳",
   "available_for"       : ["Data Analyst", "Data Engineer", "Analytics Engineer", "Python Developer"],
   "currently_exploring" : "Advanced ML & Predictive Analytics",
