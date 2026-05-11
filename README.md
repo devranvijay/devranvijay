@@ -20,7 +20,7 @@
 {
   "name"                : "Ranvijay Singh",
   "role"                : "Data Analyst & Automation Specialist",
-  "company"             : "Haitech Medical Solution PVT LTD",
+  "company"             : "Brownwall Food Pvt Ltd",
   "location"            : "Mumbai, India 🇮🇳",
   "available_for"       : ["Data Analyst", "Data Engineer", "Analytics Engineer", "Python Developer"],
   "currently_exploring" : "Advanced ML & Predictive Analytics",
@@ -44,41 +44,35 @@
 
 ## 🛠️ Tech Stack
 
-**Core**
+**🔷 Core**
 
-![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=6366f1)
-![SQL](https://img.shields.io/badge/SQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=6366f1)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0f?style=for-the-badge&logo=fastapi&logoColor=6366f1)
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-0a0a0f?style=for-the-badge&logo=apacheairflow&logoColor=6366f1)
+| 🐍 Python | 🗄️ SQL | ⚡ FastAPI | 🔄 ETL Pipelines | 🐙 Git |
+|:-:|:-:|:-:|:-:|:-:|
+| Expert | Expert | Proficient | Expert | Proficient |
 
-**Data & BI**
+**📊 Data & BI**
 
-![Pandas](https://img.shields.io/badge/Pandas-0a0a0f?style=for-the-badge&logo=pandas&logoColor=a5b4fc)
-![NumPy](https://img.shields.io/badge/NumPy-0a0a0f?style=for-the-badge&logo=numpy&logoColor=a5b4fc)
-![Power BI](https://img.shields.io/badge/Power%20BI-0a0a0f?style=for-the-badge&logo=powerbi&logoColor=a5b4fc)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0a0a0f?style=for-the-badge&logo=google&logoColor=a5b4fc)
-![Tableau](https://img.shields.io/badge/Tableau-0a0a0f?style=for-the-badge&logo=tableau&logoColor=a5b4fc)
+| 🐼 Pandas | 🔢 NumPy | 📈 Power BI | 🔍 Looker Studio | 📉 Tableau |
+|:-:|:-:|:-:|:-:|:-:|
+| Expert | Proficient | Proficient | Expert | Proficient |
 
-**Databases**
+**🗃️ Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=818cf8)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=for-the-badge&logo=mysql&logoColor=818cf8)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0f?style=for-the-badge&logo=mongodb&logoColor=818cf8)
-![Redis](https://img.shields.io/badge/Redis-0a0a0f?style=for-the-badge&logo=redis&logoColor=818cf8)
-![MS SQL Server](https://img.shields.io/badge/SQL%20Server-0a0a0f?style=for-the-badge&logo=microsoftsqlserver&logoColor=818cf8)
+| 🐘 PostgreSQL | 🐬 MySQL | 🍃 MongoDB | ⚡ Redis | 🟦 SQL Server |
+|:-:|:-:|:-:|:-:|:-:|
+| Proficient | Expert | Proficient | Proficient | Proficient |
 
-**Infrastructure & Cloud**
+**☁️ Infrastructure & Cloud**
 
-![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=6366f1)
-![AWS](https://img.shields.io/badge/AWS%20EC2%2FS3-0a0a0f?style=for-the-badge&logo=amazonaws&logoColor=6366f1)
-![GCP](https://img.shields.io/badge/GCP-0a0a0f?style=for-the-badge&logo=googlecloud&logoColor=6366f1)
-![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=6366f1)
+| 🐳 Docker | ☁️ AWS EC2/S3 | 🌐 GCP | 🔁 GitHub Actions |
+|:-:|:-:|:-:|:-:|
+| Proficient | Proficient | Familiar | Proficient |
 
-**Frontend**
+**🎨 Frontend**
 
-![React](https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=a5b4fc)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=a5b4fc)
-![Figma](https://img.shields.io/badge/Figma-0a0a0f?style=for-the-badge&logo=figma&logoColor=a5b4fc)
+| ⚛️ React | 🟨 JavaScript | 🎨 Figma | 🔺 Next.js |
+|:-:|:-:|:-:|:-:|
+| Proficient | Proficient | Familiar | Proficient |
 
 ---
 
