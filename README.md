@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="devranvijay's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=&fontSize=0" width="100%"/>
