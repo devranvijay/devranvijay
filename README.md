@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 <a href="https://github.com/devranvijay">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ranvijay+Singh;Data+Analyst+%7C+AI+Automation+Engineer;Building+ETL+Pipelines+%26+LLM+Workflows;GCP+%7C+Python+%7C+SQL+%7C+dbt" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&height=40&lines=Ranvijay+Singh;Data+Analyst+%7C+AI+Automation+Engineer;Building+ETL+Pipelines+%26+LLM+Workflows;GCP+%7C+Python+%7C+SQL+%7C+dbt" alt="Typing SVG" />
 </a>
 
 <br/>
