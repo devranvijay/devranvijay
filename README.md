@@ -102,18 +102,6 @@ Interactive Power BI dashboard surfacing top regions/products from retail sales 
 
 <br/>
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devranvijay&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=818cf8&text_color=94a3b8&bg_color=0a0a0f" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devranvijay&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=94a3b8&bg_color=0a0a0f" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devranvijay&theme=transparent&hide_border=true&ring=6366f1&fire=818cf8&currStreakLabel=a5b4fc&sideLabels=94a3b8&sideNums=e2e8f0&dates=64748b" width="65%"/>
-</div>
-
-<br/>
 
 ## Education & Certifications
 
