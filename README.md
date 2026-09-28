@@ -25,7 +25,7 @@ Data Analyst repositioning into **Data Science & AI Automation Engineering**, wi
 - Reduced reporting turnaround by **67%** (3 days → 1 day)
 - Automated **15+** business-critical workflows
 - Shipped an end-to-end AI document-processing pipeline
-- Working daily in **Python, SQL, GCP (BigQuery, Cloud Composer, Pub/Sub)** and **Gemini-based LLM automation**
+- Working daily in **Python, SQL, GCP (BigQuery, Cloud Composer, Pub/Sub)** and ** LLM automation**
 
 <br/>
 
