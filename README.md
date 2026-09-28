@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Data%20Engineering%20%26%20AI%20Automation-4ade80?style=flat-square&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Open%20to-Data%20Science%20%26%20AI%20Automation-4ade80?style=flat-square&labelColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/Mumbai%2C%20India-6366f1?style=flat-square&labelColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/1.5%2B%20Years%20Experience-818cf8?style=flat-square&labelColor=0a0a0f"/>
 
