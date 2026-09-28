@@ -20,7 +20,7 @@
 
 ## Summary
 
-Data Analyst repositioning into **Data Engineering & AI Automation Engineering**, with hands-on experience building ETL/ELT pipelines, data warehouses, and LLM-powered automation across healthcare and FMCG.
+Data Analyst repositioning into **Data Science & AI Automation Engineering**, with hands-on experience building ETL/ELT pipelines, data warehouses, and LLM-powered automation across healthcare and FMCG.
 
 - Reduced reporting turnaround by **67%** (3 days → 1 day)
 - Automated **15+** business-critical workflows
